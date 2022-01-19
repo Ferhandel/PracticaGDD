@@ -1,14 +1,14 @@
 # PracticaGDD
 
-GAME DESIGN DOCUMENT TEMPLATE
+Game Desing Document 
 =============================
 1. Title Page
-   1. Game Name
+   1.Down in the Valley (provisional) 
    2. Sub-title    
-   3. Catchy quote
+   3. "Un año, una historia"
    4. Additional info	
-       1. Developer/Company Name
-       2. GDD author/supervisior
+       1. Estudio: Kraken studios
+       2. Autor GDD: Juan Fernández Temprano
 2. Design History
    1.  Version 1.0
    2.  Version 1.1
