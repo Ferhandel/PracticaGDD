@@ -2,18 +2,49 @@
 
 Game Desing Document 
 =============================
-1. Title Page
+-Título
+
    1.Down in the Valley (provisional) 
-   2. Sub-title    
-   3. "Un año, una historia"
-   4. Additional info	
-       1. Estudio: Kraken studios
-       2. Autor GDD: Juan Fernández Temprano
-2. Design History
-   1.  Version 1.0
-   2.  Version 1.1
-   3.  Version 2.0...
-3. Overview of the Game
+   
+   
+   2. Sub-title
+
+
+   4. "Toda una vida"
+
+
+   6. Información extra.
+
+
+       1. Estudio: Krakenaut studios
+
+
+       3. Autor GDD: Juan Fernández Temprano
+
+
+
+
+-Backstory.
+
+ Un gran cataclismo provocó la aparición de una nueva fuen-
+te de energía en forma de minerales que trajo consigo la apari-
+ción de diferentes seres de fantasía. Además de eso los minerales
+o "cristales" pueden ser usados para hacer "magia".
+A raíz de la energía liberada en el cataclismo muchos
+de los seres vivos del planeta evolucionaron (como si de energia nuclear se tratase). 
+Por ejemplo en las zonas urbanas con mayor concentración de esa energía los
+humanos que allí residían evolucionaron. 
+En las zonas que no estaban habitadas por los humanos, con mayor concentración de esa energía,  
+surgieron nuevos seres vivos a partir de la evolución de bestias salvajes.
+
+
+-Overview of the Game
+ La historia se desarrolla en 3 "eras": la actualidad, futuro cercano
+ y futuro lejano. Siendo la actulidad antes del cataclismo y los futuros 
+ después del cataclismo. De esta forma el jugador tendrá que adaptarse a los 
+ cambios establecidos en cada era. Tanto visuales y el entorno como los cambios
+ en la jugabilidad. 
+
    1.  Game Concept
        1. High Concept
        2. Key Features
