@@ -37,6 +37,12 @@ humanos que allí residían evolucionaron.
 En las zonas que no estaban habitadas por los humanos, con mayor concentración de esa energía,  
 surgieron nuevos seres vivos a partir de la evolución de bestias salvajes.
 
+Los humanos, buscando sobrevivir, se esparcieron en diferentes zonas. Amurallando y fortificando 
+las nuevas "ciudades" que levantaban.
+
+El mundo sufrirá un cambio hacia una nueva era.
+
+
 
 -Overview of the Game
  La historia se desarrolla en 3 "eras": la actualidad, futuro cercano
