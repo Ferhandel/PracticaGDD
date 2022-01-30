@@ -6,7 +6,7 @@ Game Desing Document
 
    1.Down in the Valley (provisional) 
    
-   2. "Toda una vida"
+   2. "Toda una vida" (provisional)
 
 
    3. Información extra.
@@ -16,27 +16,27 @@ Game Desing Document
 
 
        . Autor GDD: Juan Fernández Temprano
-
-
-
-
+       
+       
 2.Transfondo.
 
  Un gran cataclismo provocó la aparición de una nueva fuen-
-te de energía en forma de minerales que trajo consigo la apari-
-ción de diferentes seres de fantasía. Además de eso los minerales
-o "cristales" pueden ser usados para hacer "magia".
-A raíz de la energía liberada en el cataclismo muchos
-de los seres vivos del planeta evolucionaron (como si de radiación nuclear se tratase). 
-Por ejemplo en las zonas urbanas con mayor concentración de esa energía los
-humanos que allí residían evolucionaron. 
-En las zonas que no estaban habitadas por humanos, con mayor concentración de esa energía,  
-surgieron nuevos seres vivos a partir de la evolución de bestias salvajes.
+ te de energía en forma de minerales que trajo consigo la apari-
+ ción de diferentes seres de fantasía. Además de eso los minerales
+ o "cristales" pueden ser usados para hacer "magia".
+ 
+ A raíz de la energía liberada en el cataclismo muchos
+ de los seres vivos del planeta evolucionaron (como si de radiación nuclear se tratase). 
+ Por ejemplo en las zonas urbanas con mayor concentración de esa energía los
+ humanos que allí residían evolucionaron.
+ 
+ En las zonas que no estaban habitadas por humanos, con mayor concentración de esa energía,  
+ surgieron nuevos seres vivos a partir de la evolución de bestias salvajes.
 
-Los humanos, buscando sobrevivir, se esparcieron en diferentes zonas. Amurallando y fortificando 
-las nuevas "ciudades" que levantaban.
+ Los humanos, buscando sobrevivir, se esparcieron en diferentes zonas. Amurallando y fortificando 
+ las nuevas "ciudades" que levantaban.
 
-El mundo sufrirá un cambio hacia una nueva era.
+ El mundo sufrirá un cambio hacia una nueva era.
 
 
 
@@ -90,22 +90,112 @@ El mundo sufrirá un cambio hacia una nueva era.
  
  3ª era (finale): 
  
- ****en mantenimiento***
+  El juego mantendrá las mecánicas adquiridas anteriormente. La diferencia con las otras
+  eras es que la experiencia pasará a ser mas cinematica guiando al jugador hacia el final
+  del juego. El desarrollo se verá afectado por las decisiones previas pero el gameplay
+  final será el mimso para todos. 
 
   
-    En cada principio de era habrá un pequeño tutorial para que el jugador se adapte de una 
-    forma sencilla a los cambios.  
+  *En cada principio de era habrá un pequeño tutorial para que el jugador se adapte de una 
+  forma sencilla a los cambios. *
  
  
 4. Audiencia
-   El juego está destinado para gente que tenga mas de 18 años (pegi 18). 
 
-10. Artificial Intelligence
-    1. Support AI
-    2. Enemy AI 
-    3. Friendly AI
-11. Technicals
 
-12. Game Art 
-    1. Key assets
-    2. Intended style
+   Estara destinado para gente que tenga mas de 18 años (pegi 18). 
+   
+
+5. Especificaciones técnicas. 
+
+
+   El juego se desarrolará en UnrealEngine.
+   
+   ![image](https://user-images.githubusercontent.com/67064836/151707057-ccbc3432-1a33-43b6-85d8-e8e881b726ab.png)
+   
+   Enlace a la página de Unreal Engine: https://www.unrealengine.com/en-US/
+
+   
+   
+   En principio se desarrolará para PC, se tratará de optimizarlo lo máximo 
+   posible para que todo el mundo pueda disfrutar del juego, independientemente
+   del ordenador que tenga. Aunque si que requerirá de unos mínimos necesarios 
+   en el hardware. 
+   
+   
+   A pesar de desarrollarse en primera instancia para PC, no se descartá ampliar
+   el desarrollo hacia otras plataformas.
+   
+   
+ 6. Arte e inspiraciones.
+
+    Una de las inspiraciones mas notables que se han tenido en cuenta para este juego
+    es el Final Fantasy XV. Sobre todo en como se desarrolla la historia y como afecta
+    al jugador. 
+    
+    ![image](https://user-images.githubusercontent.com/67064836/151706911-04946db9-d865-4e09-8302-d8bd22f22e64.png)
+    
+    ![image](https://user-images.githubusercontent.com/67064836/151706960-3c365446-720c-45ef-8988-cdf4267dfaa5.png)
+    
+    ![image](https://user-images.githubusercontent.com/67064836/151706968-2fff20dc-1346-4157-94d4-6722dcee0362.png)
+
+
+    
+    Enlace a la página de steam: https://store.steampowered.com/app/637650/FINAL_FANTASY_XV_WINDOWS_EDITION/
+    
+    
+ 7.Financiación y distribución.
+ 
+  Al ser un proyecto ambicioso y de grandes proporciones la financiación tiene que estar a la altura, aunque cualquier 
+  ayuda es bien recibida. 
+  
+  Las ayudas del Estado: https://www.vidaextra.com/industria/sector-videojuegos-espana-recibira-2022-ocho-millones-euros-ayudas-para-fomentar-su-promocion-desarrollo
+  
+  Las ayudas de la Xunta: http://www.igape.es/gl/crear-unha-empresa/financiamento/programas-de-axudas
+  
+  Nos centraremos en crear este proyecto de manera autonómica y estatal. Contratando a artistas de las distintas localidades de Galicia y de España. 
+  
+  También se buscará financión privada usando la plataforma de crowdfunding Patreon: 
+  
+  ![image](https://user-images.githubusercontent.com/67064836/151707503-7127d9de-d136-48e1-b75b-d0733f30803e.png)
+  
+
+  Enlace a la plataforma: https://www.patreon.com/about
+  
+  Para la distribución digital usaremos de primeras la plataforma de Steam. Aunque tambien barajamos usar Microsoft. 
+  
+  ![image](https://user-images.githubusercontent.com/67064836/151707756-c59b0996-54e6-4666-a238-778e92fb4967.png)
+  
+  Enlace a Steam: https://store.steampowered.com/about/
+  
+ 
+ 
+ 
+ 
+ 
+ **Breve conclusión** 
+ 
+  *Es un proyecto de una gran embergadura. Asi que se necesitará de una cantidad de dinero que esperamos conseguir con las ayudas pertinentes.
+   Se necesitará de un numero amplio de trabajadores, asi como de ordenadores para poder desarrollar este juego. A eso hay que añadirle los 
+   gastos en contratos, seguros, infraestructuras (se necesitará un espacio de trabajo adecuado) y los impuestos que conlleva todo. 
+   En definitiba, el desarrollo de por si ya es complicado en cualquier juego, en uno de este tamaño, más aún.*
+
+  
+  
+  
+
+  
+  
+  
+  
+ 
+   
+    
+    
+
+   
+
+
+
+
+
