@@ -2,14 +2,10 @@
 
 Game Desing Document 
 =============================
-1.Título
-
-   1.Down in the Valley (provisional) 
-   
-   2. "Toda una vida" (provisional)
+1.Título: Down in the Valley (provisional)
 
 
-   3. Información extra.
+2. Información extra.
 
 
        . Estudio: Krakenaut Studios
@@ -18,35 +14,33 @@ Game Desing Document
        . Autor GDD: Juan Fernández Temprano
        
        
-2.Transfondo.
+3.Trasfondo.
 
  Un gran cataclismo provocó la aparición de una nueva fuen-
  te de energía en forma de minerales que trajo consigo la apari-
- ción de diferentes seres de fantasía. Además de eso los minerales
+ ción de diferentes seres vivos. Además de eso los minerales
  o "cristales" pueden ser usados para hacer "magia".
  
  A raíz de la energía liberada en el cataclismo muchos
- de los seres vivos del planeta evolucionaron (como si de radiación nuclear se tratase). 
- Por ejemplo en las zonas urbanas con mayor concentración de esa energía los
- humanos que allí residían evolucionaron.
- 
+ de los seres vivos del planeta evolucionaron (como si les hubiese afectado radiación nuclear). 
+ Por ejemplo en las zonas urbanas con mayor concentración de esa energía las generaciones de 
+ humanos que allí residían acabaron evolucionando.
  En las zonas que no estaban habitadas por humanos, con mayor concentración de esa energía,  
  surgieron nuevos seres vivos a partir de la evolución de bestias salvajes.
 
- Los humanos, buscando sobrevivir, se esparcieron en diferentes zonas. Amurallando y fortificando 
+ Los humanos, buscando sobrevivir, se esparcieron en diferentes zonas amurallando y fortificando 
  las nuevas "ciudades" que levantaban.
 
  El mundo sufrirá un cambio hacia una nueva era.
 
 
 
-3.Mecánicas e implementación
+4.Mecánicas e implementación
 
  La historia se desarrolla en 3 "eras": la actualidad, futuro cercano
  y futuro lejano. Siendo la actulidad antes del cataclismo y los futuros 
  después del cataclismo. De esta forma el jugador tendrá que adaptarse a los 
- cambios establecidos en cada era. Tanto visuales y el entorno como los cambios
- en la jugabilidad. 
+ cambios establecidos en cada era tanto en los visuales como en el gameplay. 
  
  ////////////////
  
@@ -61,8 +55,12 @@ Game Desing Document
   del mismo. 
   Tomando en cuenta las elecciones previas del jugador, su inicio será ligeramente diferente 
   pero se desarrolará igual para todo el mundo.
-  El juego empezará con un breve tutorial.Las mecánicas que predominan en esta era son las de 
+  
+  El juego empezará con un breve tutorial.
+  
+  Las mecánicas que predominan en esta era son las de 
   un juego de aventuras y accíon.
+  
   El jugador deberá de enfretarse a enemigos (mecánica shooter) pero también resolver algunos puzzles.
   
   
@@ -70,8 +68,8 @@ Game Desing Document
  
  Es el "nudo" del juego. 
  Ya han pasado muchos años desde el "accidente" que probocó un cambio vital en la sociedad
- humana. Todos los seres vivos se han adaptado a los cambios y la vida continúa. Los viejos
- y nuevos humanos encontraron formas de aprovechar la energia de los cristales. La vida
+ humana y todos los seres vivos se han adaptado a los cambios, la vida continúa. Los viejos
+ y nuevos humanos encontraron formas de aprovechar la energia de los cristales. Ahora todo
  gira entorno a ellos. 
  
  En esta era el mapa cambiará en gran medida. Así como en la primera era todo eran edificios,
@@ -108,7 +106,6 @@ Game Desing Document
 
 5. Especificaciones técnicas. 
 
-
    El juego se desarrolará en UnrealEngine.
    
    ![image](https://user-images.githubusercontent.com/67064836/151707057-ccbc3432-1a33-43b6-85d8-e8e881b726ab.png)
@@ -123,7 +120,7 @@ Game Desing Document
    en el hardware. 
    
    
-   A pesar de desarrollarse en primera instancia para PC, no se descartá ampliar
+   A pesar de desarrollarse en primera instancia para PC, no se descarta ampliar
    el desarrollo hacia otras plataformas.
    
    
