@@ -1,5 +1,3 @@
-# PracticaGDD
-
 Game Desing Document 
 =============================
 1. **Título**: _Down in the Valley_ (provisional)
