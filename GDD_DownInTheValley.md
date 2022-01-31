@@ -2,10 +2,10 @@
 
 Game Desing Document 
 =============================
-1.Título: Down in the Valley (provisional)
+1. **Título**: _Down in the Valley_ (provisional)
 
 
-2. Información extra.
+2. **Información extra**.
 
 
        . Estudio: Krakenaut Studios
@@ -14,11 +14,11 @@ Game Desing Document
        . Autor GDD: Juan Fernández Temprano
        
        
-3.Trasfondo.
+3. **Trasfondo**.
 
- Un gran cataclismo provocó la aparición de una nueva fuen-
- te de energía en forma de minerales que trajo consigo la apari-
- ción de diferentes seres vivos. Además de eso los minerales
+ Un gran cataclismo provocó la aparición de una nueva fuente
+ de energía en forma de minerales que trajo consigo la aparición
+ de diferentes seres vivos. Además de eso los minerales
  o "cristales" pueden ser usados para hacer "magia".
  
  A raíz de la energía liberada en el cataclismo muchos
@@ -35,9 +35,9 @@ Game Desing Document
 
 
 
-4.Mecánicas e implementación
+4. **Mecánicas e implementación**
 
- La historia se desarrolla en 3 "eras": la actualidad, futuro cercano
+ . La historia se desarrolla en 3 "eras": la actualidad, futuro cercano
  y futuro lejano. Siendo la actulidad antes del cataclismo y los futuros 
  después del cataclismo. De esta forma el jugador tendrá que adaptarse a los 
  cambios establecidos en cada era tanto en los visuales como en el gameplay. 
@@ -98,13 +98,13 @@ Game Desing Document
   forma sencilla a los cambios. *
  
  
-4. Audiencia
+5. **Audiencia**.
 
 
    Estara destinado para gente que tenga mas de 18 años (pegi 18). 
    
 
-5. Especificaciones técnicas. 
+6. **Especificaciones técnicas**. 
 
    El juego se desarrolará en UnrealEngine.
    
@@ -124,7 +124,7 @@ Game Desing Document
    el desarrollo hacia otras plataformas.
    
    
- 6. Arte e inspiraciones.
+ 7. **Arte e inspiraciones**.
 
     Una de las inspiraciones mas notables que se han tenido en cuenta para este juego
     es el Final Fantasy XV. Sobre todo en como se desarrolla la historia y como afecta
@@ -141,7 +141,7 @@ Game Desing Document
     Enlace a la página de steam: https://store.steampowered.com/app/637650/FINAL_FANTASY_XV_WINDOWS_EDITION/
     
     
- 7.Financiación y distribución.
+ 8. **Financiación y distribución**.
  
   Al ser un proyecto ambicioso y de grandes proporciones la financiación tiene que estar a la altura, aunque cualquier 
   ayuda es bien recibida. 
@@ -169,8 +169,7 @@ Game Desing Document
  
  
  
- 
- **Breve conclusión** 
+ 9. **Breve conclusión** 
  
   *Es un proyecto de una gran embergadura. Asi que se necesitará de una cantidad de dinero que esperamos conseguir con las ayudas pertinentes.
    Se necesitará de un numero amplio de trabajadores, asi como de ordenadores para poder desarrollar este juego. A eso hay que añadirle los 
@@ -178,14 +177,10 @@ Game Desing Document
    En definitiba, el desarrollo de por si ya es complicado en cualquier juego, en uno de este tamaño, más aún.*
 
   
-  
-  
 
   
   
-  
-  
- 
+
    
     
     
