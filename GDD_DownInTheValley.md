@@ -92,8 +92,8 @@ Game Desing Document
   final será el mimso para todos. 
 
   
-  *En cada principio de era habrá un pequeño tutorial para que el jugador se adapte de una 
-  forma sencilla a los cambios. *
+       *En cada principio de era habrá un pequeño tutorial para que el jugador se adapte de una 
+       forma sencilla a los cambios. *
  
  
 5. **Audiencia**.
@@ -169,10 +169,10 @@ Game Desing Document
  
  9. **Breve conclusión** 
  
-  *Es un proyecto de una gran embergadura. Asi que se necesitará de una cantidad de dinero que esperamos conseguir con las ayudas pertinentes.
-   Se necesitará de un numero amplio de trabajadores, asi como de ordenadores para poder desarrollar este juego. A eso hay que añadirle los 
-   gastos en contratos, seguros, infraestructuras (se necesitará un espacio de trabajo adecuado) y los impuestos que conlleva todo. 
-   En definitiba, el desarrollo de por si ya es complicado en cualquier juego, en uno de este tamaño, más aún.*
+       *Es un proyecto de una gran embergadura. Asi que se necesitará de una cantidad de dinero que esperamos conseguir con las ayudas pertinentes.
+       Se necesitará de un numero amplio de trabajadores, asi como de ordenadores para poder desarrollar este juego. A eso hay que añadirle los 
+       gastos en contratos, seguros, infraestructuras (se necesitará un espacio de trabajo adecuado) y los impuestos que conlleva todo. 
+       En definitiba, el desarrollo de por si ya es complicado en cualquier juego, en uno de este tamaño, más aún.*
 
   
 
